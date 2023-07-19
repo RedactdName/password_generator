@@ -33,21 +33,25 @@ var generateBtn = document.querySelector("#generate");
 var passwordCriteria = {
   length: 8,
   lowercase: true,
-  uppercase: false,
+  uppercase: true,
   numeric: true,
   specialChar: true,
 };
 
 var alphabet = "abcdefghijklmnopqrstuvwxyz" 
 var alphaLower = [...alphabet]
-console.log(alphaLower);
+var alphaUpper = alphabet.toUpperCase().split('');
 
 //Functions
 
 // Prompt for length
-var length = prompt("How long does your password need to be?");
+var length = prompt("What length should this password be?");
 //Validate length
 //Prompt for characters
+var upperCase = prompt("Does the passsword need any uppercase letters?");
+var lowerCase = prompt("How about any lowercase letters?");
+var numbers = prompt("What about some numbers?");
+var characters = prompt("Finally, do you also require any special characters to be used?");
 //Validate characters
 //Generate password
 //Show password
@@ -89,4 +93,4 @@ generateBtn.addEventListener("click", writePassword);
 
 
 
- */
+ 
