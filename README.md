@@ -23,8 +23,8 @@ Use keyboard shortcuts (Cmnd + c or Cntrl + c or right click and select *copy* )
 
 Paste your new password where you need it! (Cmnd + v/ Cntrl + v, or right click and *paste*)
 
-![Screenshot of Password Generator Webpage](assets/password-generator-screenshot.png)
-<img src= "/assets/password-generator-screenshot.png" alt= "Screenshot of webpage" title= "Screenshot">
+![Screenshot of Password Generator Webpage](./Assets/password-generator-screenshot.png)
+<!-- <img src= "/assets/password-generator-screenshot.png" alt= "Screenshot of webpage" title= "Screenshot"> -->
 
 
 
