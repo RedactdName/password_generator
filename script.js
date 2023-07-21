@@ -1,18 +1,3 @@
-
-/**
- * Add event listener to generate password button --- starts the program
- * Series of prompts for password criteria
- *  - Get length 8-128 char
- *    -validate length
- *  - Include lowercase
- *  - Include uppercase
- *  - Include numeric
- *  - Include special char
- *    - Validate char use
- *  - Generate password that meets criteria
- *  - Show the password
-*/
-
 var generateBtn = document.querySelector("#generate");
 
 //Variable definition

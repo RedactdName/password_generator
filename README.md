@@ -18,9 +18,7 @@ Highlight the password
 Use keyboard shortcuts (Cmnd + c or Cntrl + c or right click and select *copy* 
 Paste your new password where you need it! (Cmnd + v/ Cntrl + v, or right click and *paste*
 
-![alt text](assets/Screenshot%202023-07-20%20at%2011.53.07%20PM.png)
-
-## Credits
+(assets/Screenshot%202023-07-20%20at%2011.53.07%20PM.png)
 
 
 
